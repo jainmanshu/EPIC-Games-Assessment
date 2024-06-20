@@ -1,0 +1,15 @@
+{
+  "name": "clockwise-matrix",
+  "version": "1.0.0",
+  "description": "Epic Games Assessment - Question 1",
+  "main": "clockwise.js",
+  "scripts": {
+    "test": "jest",
+    "sample_test": "node sample_test.js"
+  },
+  "author": "Himanshu Jain",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
